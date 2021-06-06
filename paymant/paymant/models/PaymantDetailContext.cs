@@ -7,16 +7,16 @@ using System.Threading.Tasks;
 
 namespace Paymant.Models
 {
-    public class PaymantDetailContext:DbContext
+    public class PaymantDetailContext : DbContext
     {
-        public PaymantDetailContext(DbContextOptions<PaymantDetailContext> options):base (options)
+        public PaymantDetailContext(DbContextOptions<PaymantDetailContext> options) : base(options)
 
         {
 
         }
-        
+
+        public DbSet<PaymantDetail> PaymantDetails { get; set; }
     }
-    public DbSet<PaymantDetail> paymantDetails { get; set; }
 
 
 
