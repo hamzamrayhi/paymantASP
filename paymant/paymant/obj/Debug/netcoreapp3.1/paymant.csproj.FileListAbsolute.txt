@@ -351,7 +351,6 @@ H:\HamzaProjects\paymantASP\paymant\paymant\bin\Debug\netcoreapp3.1\runtimes\win
 H:\HamzaProjects\paymantASP\paymant\paymant\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 H:\HamzaProjects\paymantASP\paymant\paymant\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 H:\HamzaProjects\paymantASP\paymant\paymant\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-H:\HamzaProjects\paymantASP\paymant\paymant\obj\Debug\netcoreapp3.1\paymant.csprojAssemblyReference.cache
 H:\HamzaProjects\paymantASP\paymant\paymant\obj\Debug\netcoreapp3.1\paymant.AssemblyInfoInputs.cache
 H:\HamzaProjects\paymantASP\paymant\paymant\obj\Debug\netcoreapp3.1\paymant.AssemblyInfo.cs
 H:\HamzaProjects\paymantASP\paymant\paymant\obj\Debug\netcoreapp3.1\paymant.csproj.CoreCompileInputs.cache
@@ -762,3 +761,5 @@ C:\Users\user\Documents\GitHub\paymantASP\paymant\paymant\obj\Debug\netcoreapp3.
 C:\Users\user\Documents\GitHub\paymantASP\paymant\paymant\obj\Debug\netcoreapp3.1\paymant.genruntimeconfig.cache
 C:\Users\user\Documents\GitHub\paymantASP\paymant\paymant\bin\Debug\netcoreapp3.1\Humanizer.dll
 C:\Users\user\Documents\GitHub\paymantASP\paymant\paymant\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+H:\HamzaProjects\paymantASP\paymant\paymant\bin\Debug\netcoreapp3.1\Humanizer.dll
+H:\HamzaProjects\paymantASP\paymant\paymant\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
