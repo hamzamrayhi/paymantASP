@@ -1,35 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "H:\\HamzaProjects\\paymantASP\\paymant\\paymant\\paymant.csproj": {}
+    "C:\\Users\\user\\Documents\\GitHub\\paymantASP\\paymant\\paymant\\paymant.csproj": {}
   },
   "projects": {
-    "H:\\HamzaProjects\\paymantASP\\paymant\\paymant\\paymant.csproj": {
+    "C:\\Users\\user\\Documents\\GitHub\\paymantASP\\paymant\\paymant\\paymant.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\HamzaProjects\\paymantASP\\paymant\\paymant\\paymant.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\paymantASP\\paymant\\paymant\\paymant.csproj",
         "projectName": "paymant",
-        "projectPath": "H:\\HamzaProjects\\paymantASP\\paymant\\paymant\\paymant.csproj",
-        "packagesPath": "C:\\Users\\Mraih\\.nuget\\packages\\",
-        "outputPath": "H:\\HamzaProjects\\paymantASP\\paymant\\paymant\\obj\\",
+        "projectPath": "C:\\Users\\user\\Documents\\GitHub\\paymantASP\\paymant\\paymant\\paymant.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Documents\\GitHub\\paymantASP\\paymant\\paymant\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Mraih\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -40,12 +41,16 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "dependencies": {
             "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
               "target": "Package",
               "version": "[3.1.15, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.7, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
@@ -56,6 +61,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[5.0.6, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
             }
           },
           "imports": [
@@ -76,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
